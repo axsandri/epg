@@ -18,7 +18,29 @@
   <programme start="20230604154100 +0200" stop="20230604163459 +0200" channel="Bang Bang">
     <title lang="en"> Prekje Magjike </title>
   </programme>
-  <programme start="20230604163500 +0200" stop="20230604165659 +0200" channel="Bang Bang">
+     <programme start="20230604163500 +0200" stop="20230604165659 +0200" channel="Bang Bang">
     <title lang="en"> Luna Petunia </title>
+  </programme>
+  <programme start="20230604172100 +0200" stop="20230604174459 +0200" channel="Bang Bang">
+    <title lang="en"> Rrëfenjat e rosakut </title>
+  </programme>
+   <programme start="20230604174500 +0200" stop="2023060194859 +0200" channel="Bang Bang">
+    <title lang="en"> Zana ime trazovaçe </title>
+  </programme>
+   <programme start="20230604194900 +0200" stop="20230604203459 +0200" channel="Bang Bang">
+    <title lang="en"> Inspektori Gaxhet </title>
+  </programme>
+   <programme start="20230604203500 +0200" stop="20230604211959 +0200" channel="Bang Bang">
+    <title lang="en"> Perbindëshat kundër alienëve </title>
+  </programme>
+   <programme start="20230604212000 +0200" stop="20230604225459 +0200" channel="Bang Bang">
+    <title lang="en"> Rio 2 </title>
+    <desc> Protagonistët e filmit Rio këtë herë e gjejnë veten në xhunglat e Amazonës ku përpiqen të përshtaten mes risive e rreziqeve, me Najxhëllin hakmarrës dhe gjyshin që nuk e kishin takuar kurrë më parë.</desc>
+  </programme>
+   <programme start="20230604225500 +0200" stop="20230605001059 +0200" channel="Bang Bang">
+    <title lang="en"> Historia e Leos </title>
+  </programme>
+   <programme start="20230605001100 +0200" stop="20230605013959 +0200" channel="Bang Bang">
+    <title lang="en"> Djali i këmbëmadhit </title>
   </programme>
 </tv>
