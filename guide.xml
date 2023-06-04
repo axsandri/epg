@@ -8,52 +8,52 @@
     <display-name lang="sq">Bang Bang</display-name>
     <url>http://www.rtsh.al</url>
   </channel>
-  <programme start="20230604130000 +0200" stop="20230604140459 +0200" channel="Bang Bang">
+  <programme start="20230604130000 +0200" stop="20230604140500 +0200" channel="Bang Bang">
     <title lang="en">Perbindëshat kundër alienëve </title>
     <desc lang="sq"> Një serial i ri i animuar i bazuar në filmin e famshëm të animuar me të njëjtin emër, i cili ndjek veprimet e një bande të guximshme përbindëshash që shpëtojnë njerëzimin nga kërcënime të ndryshme aliene. </desc>
   </programme>
   <programme start="20230604140500 +0200" stop="20230604154059 +0200" channel="Bang Bang">
     <title lang="en"> Koko dhe sekreti i madh </title>
-    <desc> I përballur me ndalimin e muzikës në familjen e tij prej shumë gjeneratash, Migeli 12 vjeçar futet në 'Tokën e të Vdekurve' për të gjetur stërgjyshin e tij, një këngëtar legjendar...</desc>
+    <desc lang="sq"> I përballur me ndalimin e muzikës në familjen e tij prej shumë gjeneratash, Migeli 12 vjeçar futet në 'Tokën e të Vdekurve' për të gjetur stërgjyshin e tij, një këngëtar legjendar...</desc>
   </programme>
-  <programme start="20230604154100 +0200" stop="20230604163459 +0200" channel="Bang Bang">
+  <programme start="20230604154100 +0200" stop="20230604163500 +0200" channel="Bang Bang">
     <title lang="en"> Prekje Magjike </title>
-    <desc>Njihuni me Biankën dhe mikun e saj më të mirë Bob. Bianka nuk është një vajzë si gjithë të tjerat, sepse ajo ka një aftësi magjike. Ti bëjë dëshirat realitet... </desc>
+    <desc lang="sq">Njihuni me Biankën dhe mikun e saj më të mirë Bob. Bianka nuk është një vajzë si gjithë të tjerat, sepse ajo ka një aftësi magjike. Ti bëjë dëshirat realitet... </desc>
   </programme>
-     <programme start="20230604163500 +0200" stop="20230604165659 +0200" channel="Bang Bang">
+     <programme start="20230604163500 +0200" stop="20230604172100 +0200" channel="Bang Bang">
     <title lang="en"> Luna Petunia </title>
-     <desc> Kjo është aventura e Luna Petunias. Një vajzë e vogël e cila arrin të bëj të mundur, të pamundurën. Falë një celsi magjik, ajo shkon në vende shumë të bukura dhe të takon miq të rinj argëtues...</desc>
+     <desc lang="sq"> Kjo është aventura e Luna Petunias. Një vajzë e vogël e cila arrin të bëj të mundur, të pamundurën. Falë një celsi magjik, ajo shkon në vende shumë të bukura dhe të takon miq të rinj argëtues...</desc>
   </programme>
-  <programme start="20230604172100 +0200" stop="20230604174459 +0200" channel="Bang Bang">
+  <programme start="20230604172100 +0200" stop="20230604174500 +0200" channel="Bang Bang">
     <title lang="en"> Rrëfenjat e rosakut </title>
-     <desc>Personazhi shumë i dashur nga fëmijët Xhaxha Donaldi, rikthehet bashkë me tri nipat e tij: Hui, Dui, Lui. Më në fund Xhaxha Donaldi do të fillojë punë, ndaj ai vendos ti kërkojë ndihmë xhaxhait të tij Skruxh Mek Rosakut, që të kujdeset për ta... </desc>
+     <desc lang="sq">Personazhi shumë i dashur nga fëmijët Xhaxha Donaldi, rikthehet bashkë me tri nipat e tij: Hui, Dui, Lui. Më në fund Xhaxha Donaldi do të fillojë punë, ndaj ai vendos ti kërkojë ndihmë xhaxhait të tij Skruxh Mek Rosakut, që të kujdeset për ta... </desc>
   </programme>
-   <programme start="20230604174500 +0200" stop="2023060182959 +0200" channel="Bang Bang">
+   <programme start="20230604174500 +0200" stop="2023060183000 +0200" channel="Bang Bang">
     <title lang="en"> Elena e Avalorit </title>
-     <desc> Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</desc>
+     <desc lang="sq"> Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</desc>
   </programme>
-  <programme start="2023060183000 +0200" stop="2023060194859 +0200" channel="Bang Bang">
+  <programme start="2023060183000 +0200" stop="20230604194900 +0200" channel="Bang Bang">
     <title lang="en"> Zana ime trazovaçe </title>
-     <desc> Vogëlushja e zhurmshme Maksi nuk mund t'u besojë syve kur në dhomën e saj shfaqet zana trazovaçe e quajtur Violeta. Ajo ka humbur në botën njerëzore por Maksi e ndihmon të gjejë rrugën për në botën e zanave, po ashtu edhe Violeta do të bëjë magji dhe do ta kthejë Maksin në shtëpinë e gjyshes së saj në fshat që i mungon shumë.</desc>
+     <desc lang="sq"> Vogëlushja e zhurmshme Maksi nuk mund t'u besojë syve kur në dhomën e saj shfaqet zana trazovaçe e quajtur Violeta. Ajo ka humbur në botën njerëzore por Maksi e ndihmon të gjejë rrugën për në botën e zanave, po ashtu edhe Violeta do të bëjë magji dhe do ta kthejë Maksin në shtëpinë e gjyshes së saj në fshat që i mungon shumë.</desc>
   </programme>
-   <programme start="20230604194900 +0200" stop="20230604203459 +0200" channel="Bang Bang">
+   <programme start="20230604194900 +0200" stop="20230604203500 +0200" channel="Bang Bang">
     <title lang="en"> Inspektori Gaxhet </title>
-     <desc>Njihuni me inspektorin më të veçantë në Botë. Emri i tij është Gaxhet. Kur armiku i tij i vjetër, i ligu Doktor Kla, rikativizon Sindikatën e Krimit Global, Inspektori Gaxhet duhet të parandalojë të këqijat që ai mund ti sjellë... </desc>
+     <desc lang="sq">Njihuni me inspektorin më të veçantë në Botë. Emri i tij është Gaxhet. Kur armiku i tij i vjetër, i ligu Doktor Kla, rikativizon Sindikatën e Krimit Global, Inspektori Gaxhet duhet të parandalojë të këqijat që ai mund ti sjellë... </desc>
   </programme>
-   <programme start="20230604203500 +0200" stop="20230604211959 +0200" channel="Bang Bang">
+   <programme start="20230604203500 +0200" stop="20230604212000 +0200" channel="Bang Bang">
     <title lang="en"> Perbindëshat kundër alienëve </title>
-     <desc> Këtu ka përbindësha... Ka alienë... Ke edhe njerëz... Ka aventurë... Ka aksion... Dhe ky është një serial që nuk duhet humbur...</desc>
+     <desc lang="sq"> Këtu ka përbindësha... Ka alienë... Ke edhe njerëz... Ka aventurë... Ka aksion... Dhe ky është një serial që nuk duhet humbur...</desc>
   </programme>
-   <programme start="20230604212000 +0200" stop="20230604225459 +0200" channel="Bang Bang">
+   <programme start="20230604212000 +0200" stop="20230604225500 +0200" channel="Bang Bang">
     <title lang="en"> Rio 2 </title>
-    <desc> Protagonistët e filmit Rio këtë herë e gjejnë veten në xhunglat e Amazonës ku përpiqen të përshtaten mes risive e rreziqeve, me Najxhëllin hakmarrës dhe gjyshin që nuk e kishin takuar kurrë më parë.</desc>
+    <desc lang="sq"> Protagonistët e filmit Rio këtë herë e gjejnë veten në xhunglat e Amazonës ku përpiqen të përshtaten mes risive e rreziqeve, me Najxhëllin hakmarrës dhe gjyshin që nuk e kishin takuar kurrë më parë.</desc>
   </programme>
-   <programme start="20230604225500 +0200" stop="20230605001059 +0200" channel="Bang Bang">
+   <programme start="20230604225500 +0200" stop="20230605001100 +0200" channel="Bang Bang">
     <title lang="en"> Historia e Leos </title>
-     <desc>Kjo është historia e një luani vetmitar dhe vegjetarian. Ai njihet me një elefante dhe e ndihmon të sjellë në jetë të vegjëlit e saj, që lindin të ngjitur me njëri tjetrin. Tani, të katërt, janë të izoluar nga bota që i mendon të ndryshëm.</desc>
+     <desc lang="sq">Kjo është historia e një luani vetmitar dhe vegjetarian. Ai njihet me një elefante dhe e ndihmon të sjellë në jetë të vegjëlit e saj, që lindin të ngjitur me njëri tjetrin. Tani, të katërt, janë të izoluar nga bota që i mendon të ndryshëm.</desc>
   </programme>
    <programme start="20230605001100 +0200" stop="20230605013959 +0200" channel="Bang Bang">
     <title lang="en"> Djali i këmbëmadhit </title>
-     <desc> </desc>
+     <desc lang="sq"> </desc>
   </programme>
 </tv>
