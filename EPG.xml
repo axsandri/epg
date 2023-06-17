@@ -1,0 +1,589 @@
+<tv>
+  <channel id="bangbang">
+    <display-name>Bang Bang</display-name>
+    <url>digitalb.al</url>
+  </channel>
+
+  <programme start="20230617071000 +0200" stop="20230617073200 +0200" channel="bangbang">
+    <title>Prekje magjike</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që sjell aventurat emocionuese të personazheve në botën e magjisë.</desc>
+  </programme>
+
+  <programme start="20230617080500 +0200" stop="20230617082800 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na udhëheq në një emocionuese shëtitje në xhungël me personazhet kryesore.</desc>
+  </programme>
+
+  <programme start="20230617085500 +0200" stop="20230617092000 +0200" channel="bangbang">
+    <title>Rrëfenjat e rosakut</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na tregon historitë e interesanta të rosakut dhe aventurat e tij emocionuese.</desc>
+  </programme>
+
+  <programme start="20230617092000 +0200" stop="20230617094200 +0200" channel="bangbang">
+    <title>Elena e Avalorit</title>
+    <category>Animacion, aksion, aventurë, komedi</category>
+    <desc>Protagonistja Elena e Avalorit, së bashku me miqtë e saj, përjeton aventura emocionuese në botën e Avalorit.</desc>
+  </programme>
+
+  <programme start="20230617100500 +0200" stop="20230617112000 +0200" channel="bangbang">
+    <title>Elfët: Një histori gatimi</title>
+    <category>Animacion</category>
+    <desc>Një film animuar që na sjell një histori të shijshme për elfët dhe aventurat e tyre emocionuese në botën e gatimit.</desc>
+  </programme>
+
+  <programme start="20230617112000 +0200" stop="20230617123000 +0200" channel="bangbang">
+    <title>Shqiponjat guximtare</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që ndjek aventurat e shqiponjave të guximshme në një botë plot emocion dhe sfida.</desc>
+  </programme>
+
+  <programme start="20230617123000 +0200" stop="20230617125100 +0200" channel="bangbang">
+    <title>Inspektori Gaxhet</title>
+    <category>Animacion, aksion, aventurë</category>
+    <desc>Inspektori Gaxhet, bashkë me ekipin e tij, sulmon krimit dhe përjeton aventura të mahnitshme në qytetin e tij.</desc>
+  </programme>
+
+  <programme start="20230617125100 +0200" stop="20230617131500 +0200" channel="bangbang">
+    <title>Perbindëshat kundër alienëve</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na tregon sfidat dhe aventurat emocionuese të perbindësave në luftën kundër alienëve.</desc>
+  </programme>
+
+  <programme start="20230617140000 +0200" stop="20230617153500 +0200" channel="bangbang">
+    <title>Në kërkim të Dorit</title>
+    <category>Animacion</category>
+    <desc>Një film animuar që na çon në një emocionuese aventurë të personazhit kryesor, Dori.</desc>
+  </programme>
+
+  <programme start="20230617163000 +0200" stop="20230617165300 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na udhëheq në një emocionuese shëtitje në xhungël me personazhet kryesore.</desc>
+  </programme>
+
+  <programme start="20230617172000 +0200" stop="20230617174500 +0200" channel="bangbang">
+    <title>Rrëfenjat e rosakut</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na tregon historitë e interesanta të rosakut dhe aventurat e tij emocionuese.</desc>
+  </programme>
+
+  <programme start="20230617174500 +0200" stop="20230617180700 +0200" channel="bangbang">
+    <title>Elena e Avalorit</title>
+    <category>Animacion, aksion, aventurë, komedi</category>
+    <desc>Protagonistja Elena e Avalorit, së bashku me miqtë e saj, përjeton aventura emocionuese në botën e Avalorit.</desc>
+  </programme>
+
+  <programme start="20230617183000 +0200" stop="20230617195500 +0200" channel="bangbang">
+    <title>Përgjithmonë Shrek</title>
+    <category></category>
+    <desc>Filmi animuar "Përgjithmonë Shrek" na sjell aventurat e famshme të Shrekut në një histori emocionuese.</desc>
+  </programme>
+
+  <programme start="20230617195500 +0200" stop="20230617201600 +0200" channel="bangbang">
+    <title>Inspektori Gaxhet</title>
+    <category>Animacion, aksion, aventurë</category>
+    <desc>Inspektori Gaxhet, bashkë me ekipin e tij, sulmon krimit dhe përjeton aventura të mahnitshme në qytetin e tij.</desc>
+  </programme>
+
+  <programme start="20230617201600 +0200" stop="20230617204000 +0200" channel="bangbang">
+    <title>Perbindëshat kundër alienëve</title>
+    <category>Animacion</category>
+    <desc>Seria animuese që na tregon sfidat dhe aventurat emocionuese të perbindësave në luftën kundër alienëve.</desc>
+  </programme>
+  <programme start="20230617212500 +0200" stop="20230617224500 +0200" channel="bangbang">
+    <title>Aventurat e rosakeve</title>
+    <category></category>
+    <desc>Filmi animuar "Aventurat e rosakeve" na tregon historinë e emocionuese të një grupi të veçantë të rosakëve në një aventurë të jashtëzakonshme.</desc>
+  </programme>
+
+  <programme start="20230617224500 +0200" stop="20230618001000 +0200" channel="bangbang">
+    <title>Arratisja e Pulave</title>
+    <category></category>
+    <desc>Filmi animuar "Arratisja e Pulave" na sjell historinë e humoristikë e pulave që përpiqen të shpëtojnë nga ferma e tyre.</desc>
+  </programme>
+
+  <programme start="20230618001000 +0200" stop="20230618012500 +0200" channel="bangbang">
+    <title>Elfët: Një histori gatimi</title>
+    <category></category>
+    <desc>Filmi animuar "Elfët: Një histori gatimi" na tregon historinë e një grupi elfësh që përballet me sfidat e gatimit dhe aventurave të paharrueshme.</desc>
+  </programme>
+
+  <programme start="20230618012500 +0200" stop="20230618023500 +0200" channel="bangbang">
+    <title>Shqiponjat guximtare</title>
+    <category></category>
+    <desc>Filmi animuar "Shqiponjat guximtare" na sjell historinë e emocionuese të dy shqiponjave të vogla që përjetojnë aventura të jashtëzakonshme.</desc>
+  </programme>
+
+  <programme start="20230618023500 +0200" stop="20230618041000 +0200" channel="bangbang">
+    <title>Në kërkim të Dorit</title>
+    <category>Animacion</category>
+    <desc>Një film animuar që na çon në një emocionuese aventurë të personazhit kryesor, Dori.</desc>
+  </programme>
+
+  <programme start="20230618041000 +0200" stop="20230618053500 +0200" channel="bangbang">
+    <title>Përgjithmonë Shrek</title>
+    <category></category>
+    <desc>Filmi animuar "Përgjithmonë Shrek" na sjell aventurat e famshme të Shrekut në një histori emocionuese.</desc>
+  </programme>
+
+  <programme start="20230618053500 +0200" stop="20230618065500 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Seria animuar që na sjell aventurat emocionuese të personazheve të ndryshëm në xhungël.</desc>
+  </programme>
+
+ <channel id="bangbang">
+    <display-name>Bang Bang</display-name>
+    <url>digitalb.al</url>
+  </channel>
+
+  <programme start="20230618060000 +0200" stop="20230618062000 +0200" channel="bangbang">
+    <title>Aventurat e rosakeve</title>
+    <category>Animacion</category>
+    <desc>Quackerz (2016) - Një aventurë magjike i takon aventurave të rosakëve të ndryshëm për t'u shpëtuar kthimit në një mallkim të përjetshëm nga Mbretëresha e kërpudhave.</desc>
+  </programme>
+
+  <programme start="20230618062000 +0200" stop="20230618070000 +0200" channel="bangbang">
+    <title>Prekje magjike</title>
+    <category>Animacion</category>
+    <desc>Prekje magjike - Anëtarët e një shoqate të veçantë, me aftësi të jashtëzakonshme magjike, tregojnë përvojat e tyre emocionuese në botën e fantazisë.</desc>
+  </programme>
+
+  <programme start="20230618070000 +0200" stop="20230618073500 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Një shëtitje në xhungël - Një grup i vogël aventurierësh zhvillojnë një shëtitje emocionuese në xhunglën e egër, takojnë kafshë të pabesueshme dhe hasin në sfida të vështira.</desc>
+  </programme>
+
+  <programme start="20230618073500 +0200" stop="20230618081500 +0200" channel="bangbang">
+    <title>Rrëfenjat e rosakut</title>
+    <category>Animacion</category>
+    <desc>Rrëfenjat e rosakut - Rosaku është gati gjithmonë në kërkim të aventurave dhe ka shumë histori për t'u treguar. Shoqja e tij e mirë, Rosalinda, i dëgjon rrëfimet me vëmendje dhe ndjek çdo këshillë që ai i jep.</desc>
+  </programme>
+
+  <programme start="20230618081500 +0200" stop="20230618094500 +0200" channel="bangbang">
+    <title>Elena e Avalorit</title>
+    <category>Animacion, aksion, aventurë, komedi</category>
+    <desc>Elena e Avalorit - Elena, një princeshë e re, përpiqet të bëhet mbretëreshë e Avalorit duke përballur sfida të ndryshme dhe duke mbrojtur vendin nga forcave të këqija.</desc>
+  </programme>
+
+  <programme start="20230618094500 +0200" stop="20230618101000 +0200" channel="bangbang">
+    <title>Një aventurë me njëbrirësh</title>
+    <category></category>
+    <desc>The Shonku Diaries - A Unicorn Adventure (2017) - Tintin Shonku, një shkencëtar i ri, vazhdon eksplorimet e tij të jashtëzakonshme kur ai gjen një brirësh magjik që tregon rrugën drejt një aventuri të pafundme.</desc>
+  </programme>
+
+  <programme start="20230618114500 +0200" stop="20230618131000 +0200" channel="bangbang">
+    <title>Trolët: Mbretëria magjike</title>
+    <category></category>
+    <desc>Troll: The Tale of a Tail (2018) - Princeshës Aurora i vjen në ndihmë një trol magjik, i quajtur Raggley, për të shpëtuar mbretërinë e saj nga një sulm i kërcënueshëm nga një ushtri e armiqve.</desc>
+  </programme>
+
+  <programme start="20230618131000 +0200" stop="20230618134000 +0200" channel="bangbang">
+    <title>Inspektori Gaxhet</title>
+    <category>Animacion, aksion, aventurë</category>
+    <desc>Inspektori Gaxhet - Inspektori Gaxhet, një zog polic, bën hetimet më të vështira dhe vë në pah talentet e tij të veçanta për të rrëzuar kriminelët dhe për të mbrojtur qytetarët.</desc>
+  </programme>
+
+  <programme start="20230618134000 +0200" stop="20230618140500 +0200" channel="bangbang">
+    <title>Perbindëshat kundër alienëve</title>
+    <category>Animacion</category>
+    <desc>Perbindëshat kundër alienëve - Një grup perbindëshash luftojnë kundër alienëve të këqij që kanë pushtuar planetin dhe kërkojnë të shkatërrojnë gjithçka.</desc>
+  </programme>
+
+  <programme start="20230618140500 +0200" stop="20230618143500 +0200" channel="bangbang">
+    <title>Sherlok: Xhuxhi detektiv</title>
+    <category></category>
+    <desc>Sherlock Gnomes (2018) - Këtu vjen detektivi Xhuxhi, i njohur për zgjidhjen e misterit të fshehur të zhdukjes së gnomëve të kopshtit dhe për të mbrojtur botën e tyre nga një armik i frikshëm.</desc>
+  </programme>
+
+  <programme start="20230618160000 +0200" stop="20230618162000 +0200" channel="bangbang">
+    <title>Prekje magjike</title>
+    <category>Animacion</category>
+    <desc>Prekje magjike - Anëtarët e një shoqate të veçantë, me aftësi të jashtëzakonshme magjike, tregojnë përvojat e tyre emocionuese në botën e fantazisë.</desc>
+  </programme>
+
+  <programme start="20230618162000 +0200" stop="20230618165000 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Një shëtitje në xhungël - Një grup i vogël aventurierësh zhvillojnë një shëtitje emocionuese në xhunglën e egër, takojnë kafshë të pabesueshme dhe hasin në sfida të vështira.</desc>
+  </programme>
+
+  <programme start="20230618165000 +0200" stop="20230618172500 +0200" channel="bangbang">
+    <title>Rrëfenjat e rosakut</title>
+    <category>Animacion</category>
+    <desc>Rrëfenjat e rosakut - Rosaku është gati gjithmonë në kërkim të aventurave dhe ka shumë histori për t'u treguar. Shoqja e tij e mirë, Rosalinda, i dëgjon rrëfimet me vëmendje dhe ndjek çdo këshillë që ai i jep.</desc>
+  </programme>
+
+  <programme start="20230618172500 +0200" stop="20230618185500 +0200" channel="bangbang">
+    <title>Elena e Avalorit</title>
+    <category>Animacion, aksion, aventurë, komedi</category>
+    <desc>Elena e Avalorit - Elena, një princeshë e re, përpiqet të bëhet mbretëreshë e Avalorit duke përballur sfida të ndryshme dhe duke mbrojtur vendin nga forcave të këqija.</desc>
+  </programme>
+
+  <programme start="20230618185500 +0200" stop="20230618192000 +0200" channel="bangbang">
+    <title>Rrëfenjë peshkaqenësh</title>
+    <category></category>
+    <desc>Shark Tale (2004) - Një peshkaqen me emër ëndërron të bëhet hero, por zhgënjimi ndodh kur ai është përfshirë në një skandal që e bën të jetojë në terror.</desc>
+  </programme>
+
+  <programme start="20230618202000 +0200" stop="20230618214500 +0200" channel="bangbang">
+    <title>Inspektori Gaxhet</title>
+    <category>Animacion, aksion, aventurë</category>
+    <desc>Inspektori Gaxhet - Inspektori Gaxhet, një zog polic, bën hetimet më të vështira dhe vë në pah talentet e tij të veçanta për të rrëzuar kriminelët dhe për të mbrojtur qytetarët.</desc>
+  </programme>
+
+  <programme start="20230618214500 +0200" stop="20230618221000 +0200" channel="bangbang">
+    <title>Perbindëshat kundër alienëve</title>
+    <category>Animacion</category>
+    <desc>Perbindëshat kundër alienëve - Një grup perbindëshash luftojnë kundër alienëve të këqij që kanë pushtuar planetin dhe kërkojnë të shkatërrojnë gjithçka.</desc>
+  </programme>
+
+  <programme start="20230618221000 +0200" stop="20230618225000 +0200" channel="bangbang">
+    <title>Arlo Djali Aligator</title>
+    <category></category>
+    <desc>Arlo the Alligator Boy (2021) - Arlo është një djalosh aligator që lë vendin e tij të rritjes për të kërkuar babain e tij në një qytet të madh dhe për të përjetuar aventurat e tij të para jashtë kufijve.</desc>
+  </programme>
+
+  <programme start="20230618232000 +0200" stop="20230618244000 +0200" channel="bangbang">
+    <title>Bota e cudirave e Impit</title>
+    <category></category>
+    <desc>Urmel voll in Fahrt (2008) - Impi dhe miqtë e tij shkojnë në një udhëtim të çuditshëm rreth botës për të zbuluar ndodhi dhe aventura të reja.</desc>
+  </programme>
+
+  <programme start="20230619004000 +0200" stop="20230619020000 +0200" channel="bangbang">
+    <title>Një aventurë me njëbrirësh</title>
+    <category></category>
+    <desc>The Shonku Diaries - A Unicorn Adventure (2017) - Tintin Shonku, një shkencëtar i ri, vazhdon eksplorimet e tij të jashtëzakonshme kur ai gjen një brirësh magjik që tregon rrugën drejt një aventuri të pafundme.</desc>
+  </programme>
+
+  <programme start="20230619021000 +0200" stop="20230619033500 +0200" channel="bangbang">
+    <title>Trolët: Mbretëria magjike</title>
+    <category></category>
+    <desc>Troll: The Tale of a Tail (2018) - Princeshës Aurora i vjen në ndihmë një trol magjik, i quajtur Raggley, për të shpëtuar mbretërinë e saj nga një sulm i kërcënueshëm nga një ushtri e armiqve.</desc>
+  </programme>
+
+  <programme start="20230619033500 +0200" stop="20230619040500 +0200" channel="bangbang">
+    <title>Sherlok: Xhuxhi detektiv</title>
+    <category></category>
+    <desc>Sherlock Gnomes (2018) - Këtu vjen detektivi Xhuxhi, i njohur për zgjidhjen e misterit të fshehur të zhdukjes së gnomëve të kopshtit dhe për të mbrojtur botën e tyre nga një armik i frikshëm.</desc>
+  </programme>
+
+  <programme start="20230619045500 +0200" stop="20230619052000 +0200" channel="bangbang">
+    <title>Një shëtitje në xhungël</title>
+    <category>Animacion</category>
+    <desc>Një shëtitje në xhungël - Një grup i vogël aventurierësh zhvillojnë një shëtitje emocionuese në xhunglën e egër, takojnë kafshë të pabesueshme dhe hasin në sfida të vështira.</desc>
+  </programme>
+
+  <programme start="20230619052000 +0200" stop="20230619054500 +0200" channel="bangbang">
+    <title>Rrëfenjë peshkaqenësh</title>
+    <category></category>
+    <desc>Shark Tale (2004) - Një peshkaqen me emër ëndërron të bëhet hero, por zhgënjimi ndodh kur ai është përfshirë në një skandal që e bën të jetojë në terror.</desc>
+  </programme>
+<programme start="20230619065000 +0200" stop="20230619070100 +0200">
+  <title>Teatri i putrave</title>
+  <category>Animacion</category>
+  <desc>Teatri i putrave - Një grup krijesash të veçanta jetojnë në një botë magjike të teatrit dhe përjetojnë aventura të ndryshme nëpër këtë mjedis të mahnitshëm.</desc>
+</programme>
+
+<programme start="20230619070100 +0200" stop="20230619071500 +0200">
+  <title>Vampirina</title>
+  <category>Animacion</category>
+  <desc>Vampirina - Vampirina është një vajzë vampir që përjeton aventura të ndryshme në një qytet të banuar nga krijesa të tjera magjike.</desc>
+</programme>
+
+<programme start="20230619071500 +0200" stop="20230619073800 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230619073800 +0200" stop="20230619075000 +0200">
+  <title>Garda e luanit</title>
+  <category>Animacion</category>
+  <desc>Garda e luanit - Kopshtari Kion dhe ekipi i tij i besuar, "Garda e luanit", mbrojnë Territorin e Lumtur nga rrezikimet dhe të këqijat që i kërcënojnë.</desc>
+</programme>
+
+<programme start="20230619075000 +0200" stop="20230619093500 +0200">
+  <title>E humbur në Oz</title>
+  <category>Animacion, aventurë</category>
+  <desc>E humbur në Oz - Pasi dorothy përfundon në Oz, ajo bashkohet me miqtë e saj të rinj për të gjetur rrugën për në shtëpi, duke përjetuar aventura dhe rreziqe në rrugën e saj.</desc>
+</programme>
+
+<programme start="20230619093500 +0200" stop="20230619095500 +0200">
+  <title>Aventura magjike e Tomit</title>
+  <category>Animacion</category>
+  <desc>Aventura magjike e Tomit - Tomi është një djalosh i ri që hyrja e tij në një botë të magjisë shndërrohet në një aventurë të pafundme, ku ai përballet me përbindësha, magji dhe ndërlikime emocionuese.</desc>
+</programme>
+
+<programme start="20230619095500 +0200" stop="20230619111500 +0200">
+  <title>Alvin dhe fytyrëketrushat</title>
+  <category>Animacion, aventurë</category>
+  <desc>Alvin dhe fytyrëketrushat - Alvin, Simon dhe Theodore janë tre fytyrëketrusha të talentuara muzikore që përjetojnë aventura dhe situata komike në rrugën e tyre drejt famës dhe suksesit.</desc>
+</programme>
+
+<programme start="20230619111500 +0200" stop="20230619115000 +0200">
+  <title>Barbi, përrallë sirene 2</title>
+  <category>Animacion</category>
+  <desc>Barbi, përrallë sirene 2 - Në këtë pjesë të dytë, Barbi njihet me një sirene të re, dhe së bashku vazhdojnë aventurat nën ujë dhe përpiqen të shpëtojnë mbretërinë e sirenavë.</desc>
+</programme>
+
+<programme start="20230619130500 +0200" stop="20230619143500 +0200">
+  <title>Krudët</title>
+  <desc>The Croods (2013) - Një familje primitive përpiqet të mbijetojë në një botë të re të shkatërruar nga katastrofat natyrore, duke përballur sfida dhe përjetuar aventura emocionuese.</desc>
+</programme>
+
+<programme start="20230619143500 +0200" stop="20230619145600 +0200">
+  <title>Rebelët e Luftës së Yjeve</title>
+  <category>Animacion</category>
+  <desc>Rebelët e Luftës së Yjeve - Një grup herojësh përpiqen të rrëzojnë diktaturën dhe sundimin e Luftës së Yjeve, duke përdorur forcën dhe strategjitë e tyre në betejën kundër forcave të pabesueshme të mbrapshta.</desc>
+</programme>
+
+<programme start="20230619145600 +0200" stop="20230619151900 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm përjeton aventura emocionuese nëpër oqeane, duke përballur rreziqe të shumta dhe duke eksploruar vende të reja dhe misterioze.</desc>
+</programme>
+
+<programme start="20230619160400 +0200" stop="20230619161600 +0200">
+  <title>Teatri i putrave</title>
+  <category>Animacion</category>
+  <desc>Teatri i putrave - Një grup krijesash të veçanta jetojnë në një botë magjike të teatrit dhe përjetojnë aventura të ndryshme nëpër këtë mjedis të mahnitshëm.</desc>
+</programme>
+
+<programme start="20230619161600 +0200" stop="20230619163000 +0200">
+  <title>Vampirina</title>
+  <category>Animacion</category>
+  <desc>Vampirina - Vampirina është një vajzë vampir që përjeton aventura të ndryshme në një qytet të banuar nga krijesa të tjera magjike.</desc>
+</programme>
+
+<programme start="20230619163000 +0200" stop="20230619165200 +0200">
+  <title>Garda e luanit</title>
+  <category>Animacion</category>
+  <desc>Garda e luanit - Kopshtari Kion dhe ekipi i tij i besuar, "Garda e luanit", mbrojnë Territorin e Lumtur nga rrezikimet dhe të këqijat që i kërcënojnë.</desc>
+</programme>
+
+<programme start="20230619165200 +0200" stop="20230619171900 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230619181900 +0200" stop="20230619191500 +0200">
+  <title>Erdhi Zemëraku</title>
+  <desc>Here Comes the Grump (2018) - Kur një troll i keq dhe magjistar i vërtetë zbarkon në qytetin e dremitshëm, një vajzë e re dhe një shok i saj nisen në një aventurë për të shpëtuar botën e tyre nga mahnitësi dhe ndyrësira.</desc>
+</programme>
+
+<programme start="20230619201500 +0200" stop="20230619203600 +0200">
+  <title>Rebelët e Luftës së Yjeve</title>
+  <category>Animacion</category>
+  <desc>Rebelët e Luftës së Yjeve - Një grup herojësh përpiqen të rrëzojnë diktaturën dhe sundimin e Luftës së Yjeve, duke përdorur forcën dhe strategjitë e tyre në betejën kundër forcave të pabesueshme të mbrapshta.</desc>
+</programme>
+
+<programme start="20230619203600 +0200" stop="20230619205900 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm përjeton aventura emocionuese nëpër oqeane, duke përballur rreziqe të shumta dhe duke eksploruar vende të reja dhe misterioze.</desc>
+</programme>
+
+<programme start="20230619212100 +0200" stop="20230619224400 +0200">
+  <title>Trili dhe Sekreti i Krahëve</title>
+  <desc>Secret of the Wings (2012) - Trili zhvillohet në një aventurë emocionuese në një botë magjike kur ajo zbulon një sekret të mahnitshëm rreth krahëve të saj dhe has vështirësi të reja në rrugën e saj.</desc>
+</programme>
+
+<programme start="20230619235900 +0200" stop="20230620001900 +0200">
+  <title>Johan Padan Zbulimi i Amerikes</title>
+  <desc>Johan Padan a la descoverta de le Americhe (2002) - Një aventurier italian i papërgjegjshëm, Johan Padan, udhëton drejt Amerikës në kohën e zbulimit, duke përjetuar situata komike dhe përplasje kulturore.</desc>
+</programme>
+
+<programme start="20230620001900 +0200" stop="20230620013400 +0200">
+  <title>Barbi, përrallë sirene 2</title>
+  <category>Animacion</category>
+  <desc>Barbi, përrallë sirene 2 - Në këtë pjesë të dytë, Barbi njihet me një sirene të re, dhe së bashku vazhdojnë aventurat nën ujë dhe përpiqen të shpëtojnë mbretërinë e sirenavë.</desc>
+</programme>
+
+<programme start="20230620013400 +0200" stop="20230620030400 +0200">
+  <title>Krudët</title>
+  <desc>The Croods (2013) - Një familje primitive përpiqet të mbijetojë në një botë të re të shkatërruar nga katastrofat natyrore, duke përballur sfida dhe përjetuar aventura emocionuese.</desc>
+</programme>
+
+<programme start="20230620030400 +0200" stop="20230620042900 +0200">
+  <title>Erdhi Zemëraku</title>
+  <desc>Here Comes the Grump (2018) - Kur një troll i keq dhe magjistar i vërtetë zbarkon në qytetin e dremitshëm, një vajzë e re dhe një shok i saj nisen në një aventurë për të shpëtuar botën e tyre nga mahnitësi dhe ndyrësira.</desc>
+</programme>
+
+<programme start="20230620052900 +0200" stop="20230620055100 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230620055100 +0200" stop="20230620061400 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230620071400 +0200" stop="20230620074100 +0200">
+  <title>Vampirina</title>
+  <category>Animacion</category>
+  <desc>Vampirina - Vampirina është një vajzë vampir që përjeton aventura të ndryshme në një qytet të banuar nga krijesa të tjera magjike.</desc>
+</programme>
+
+<programme start="20230620074100 +0200" stop="20230620080900 +0200">
+  <title>Garda e luanit</title>
+  <category>Animacion</category>
+  <desc>Garda e luanit - Kopshtari Kion dhe ekipi i tij i besuar, "Garda e luanit", mbrojnë Territorin e Lumtur nga rrezikimet dhe të këqijat që i kërcënojnë.</desc>
+</programme>
+
+<programme start="20230620080900 +0200" stop="20230620082700 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230620092700 +0200" stop="20230620105000 +0200">
+  <title>Trili dhe Sekreti i Krahëve</title>
+  <desc>Secret of the Wings (2012) - Trili zhvillohet në një aventurë emocionuese në një botë magjike kur ajo zbulon një sekret të mahnitshëm rreth krahëve të saj dhe has vështirësi të reja në rrugën e saj.</desc>
+</programme>
+
+<programme start="20230620120400 +0200" stop="20230620132100 +0200">
+  <title>Teatri i putrave</title>
+  <category>Animacion</category>
+  <desc>Teatri i putrave - Një grup krijesash të veçanta jetojnë në një botë magjike të teatrit dhe përjetojnë aventura të ndryshme nëpër këtë mjedis të mahnitshëm.</desc>
+</programme>
+
+<programme start="20230620131600 +0200" stop="20230620133000 +0200">
+  <title>Vampirina</title>
+  <category>Animacion</category>
+  <desc>Vampirina - Vampirina është një vajzë vampir që përjeton aventura të ndryshme në një qytet të banuar nga krijesa të tjera magjike.</desc>
+</programme>
+
+<programme start="20230620133000 +0200" stop="20230620135200 +0200">
+  <title>Garda e luanit</title>
+  <category>Animacion</category>
+  <desc>Garda e luanit - Kopshtari Kion dhe ekipi i tij i besuar, "Garda e luanit", mbrojnë Territorin e Lumtur nga rrezikimet dhe të këqijat që i kërcënojnë.</desc>
+</programme>
+
+<programme start="20230620135200 +0200" stop="20230620141900 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230620151900 +0200" stop="20230620154100 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm 
+r mahnitshme, duke përballur sfida të ndryshme dhe rrezikshme.</desc>
+</programme>
+
+<programme start="20230620154100 +0200" stop="20230620160400 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm vazhdojnë aventurat në botën e tyre magjike, përballë rreziqeve dhe sfidave të reja.</desc>
+</programme>
+
+<programme start="20230620170400 +0200" stop="20230620171600 +0200">
+  <title>Teatri i putrave</title>
+  <category>Animacion</category>
+  <desc>Teatri i putrave - Një grup krijesash të veçanta jetojnë në një botë magjike të teatrit dhe përjetojnë aventura të ndryshme nëpër këtë mjedis të mahnitshëm.</desc>
+</programme>
+
+<programme start="20230620171600 +0200" stop="20230620173000 +0200">
+  <title>Vampirina</title>
+  <category>Animacion</category>
+  <desc>Vampirina - Vampirina është një vajzë vampir që përjeton aventura të ndryshme në një qytet të banuar nga krijesa të tjera magjike.</desc>
+</programme>
+
+<programme start="20230620181900 +0200" stop="20230620184100 +0200">
+  <title>Garda e luanit</title>
+  <category>Animacion</category>
+  <desc>Garda e luanit - Kopshtari Kion dhe ekipi i tij i besuar, "Garda e luanit", mbrojnë Territorin e Lumtur nga rrezikimet dhe të këqijat që i kërcënojnë.</desc>
+</programme>
+
+<programme start="20230620184100 +0200" stop="20230620190300 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230620190300 +0200" stop="20230620192000 +0200">
+  <title>Erdhi Zemëraku</title>
+  <desc>Here Comes the Grump (2018) - Rexi, një djalë i ri aventurier, përballet me Zemërakun magjik dhe fillon një udhëtim emocionues për të shpëtuar gjyshen e tij dhe kthimin në një botë të lumtur.</desc>
+</programme
+
+>
+
+<programme start="20230620201500 +0200" stop="20230620203600 +0200">
+  <title>Rebelët e Luftës së Yjeve</title>
+  <category>Animacion</category>
+  <desc>Rebelët e Luftës së Yjeve - Grupi i Rebelëve të Luftës së Yjeve vazhdon luftën e tyre kundër forcave të mbrapshta, duke mbrojtur paqen dhe drejtësinë në galaktikë.</desc>
+</programme>
+
+<programme start="20230620203600 +0200" stop="20230620205900 +0200">
+  <title>Rebelët e Luftës së Yjeve</title>
+  <category>Animacion</category>
+  <desc>Rebelët e Luftës së Yjeve - Grupi i Rebelëve të Luftës së Yjeve vazhdon luftën e tyre kundër forcave të mbrapshta, duke mbrojtur paqen dhe drejtësinë në galaktikë.</desc>
+</programme>
+
+<programme start="20230620212100 +0200" stop="20230620214300 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm vazhdojnë aventurat në botën e tyre magjike, përballë rreziqeve dhe sfidave të reja.</desc>
+</programme>
+
+<programme start="20230620214300 +0200" stop="20230620220600 +0200">
+  <title>Tregimet epike të kapiten Brekushit</title>
+  <category>Aksion, aventurë, komedi, familjar</category>
+  <desc>Tregimet epike të kapiten Brekushit - Kapiteni Brekushi dhe ekipi i tij i çuditshëm vazhdojnë aventurat në botën e tyre magjike, përballë rreziqeve dhe sfidave të reja.</desc>
+</programme>
+
+<programme start="20230620224400 +0200" stop="20230620225900 +0200">
+  <title>Trili dhe Sekreti i Krahëve</title>
+  <desc>Secret of the Wings (2012) - Trili zhytet në një aventurë emocionuese për të zbuluar sekretin e krahëve të saj dhe për të parë botën e magjisë së dimrit.</desc>
+</programme>
+
+<programme start="20230620235900 +0200" stop="20230621001900 +0200">
+  <title>Johan Padan Zbulimi i Amerikes</title>
+  <desc>Johan Padan a la descoverta de le Americhe (2002) - Johan Padan, një personazh historik, niset në një udhëtim aventurash për të zbuluar Amerikën e re dhe për të përjetuar ngjarje të mahnitshme në rrugën e tij
+
+.</desc>
+</programme>
+
+<programme start="20230621011900 +0200" stop="20230621013400 +0200">
+  <title>Barbi, përrallë sirene 2</title>
+  <category>Animacion</category>
+  <desc>Barbi, përrallë sirene 2 - Barbi, një sirene e bukur, shkon në një aventurë emocionuese nën ujë për të ndalur një magjistare të keqe që po kërcënon mbretërinë e detit.</desc>
+</programme>
+
+<programme start="20230621023400 +0200" stop="20230621034900 +0200">
+  <title>Krudët</title>
+  <desc>The Croods (2013) - Një familje prehistorike, Krudët, përballen me sfida dhe aventura të mahnitshme kur duhet të largohen nga shtrati i tyre i zakonshëm dhe të eksplorojnë botën e jashtëzakonshme.</desc>
+</programme>
+
+<programme start="20230621050400 +0200" stop="20230621052900 +0200">
+  <title>Erdhi Zemëraku</title>
+  <desc>Here Comes the Grump (2018) - Rexi, një djalë i ri aventurier, përballet me Zemërakun magjik dhe fillon një udhëtim emocionues për të shpëtuar gjyshen e tij dhe kthimin në një botë të lumtur.</desc>
+</programme>
+
+<programme start="20230621062900 +0200" stop="20230621065000 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230621065000 +0200" stop="20230621071100 +0200">
+  <title>Rapanzëll: Seriali</title>
+  <category>Animacion</category>
+  <desc>Rapanzëll: Seriali - Historia vazhdon aventurat e princeshës Rapanzëll, të cilit i bashkohet shokja e saj më e mirë Cassandra, dhe së bashku përballet me sfida të reja dhe rreziqe emocionuese.</desc>
+</programme>
+
+<programme start="20230621071400 +0200" stop="20230621073000 +0200">
+  <title>Trili dhe Sekreti i Krahëve</title>
+  <desc>Secret of the Wings (2012) - Trili zhytet në një aventurë emocionuese për të zbuluar sekretin e krahëve të saj dhe për të parë botën e magjisë së dimrit.</desc>
+</programme>
+</tv>
