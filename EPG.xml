@@ -339,345 +339,241 @@
     <url>digitalb.al</url>
   </channel>
 
+<channel id="cufo-tv">
+    <display-name>Cufo TV</display-name>
+    <url>digitalb.al</url>
+  </channel>
   <programme start="20230618061400 +0200" stop="20230618073400 +0200" channel="cufo-tv">
     <title>Konet e vogla dhe legjenda e Putërmadhi</title>
-    <category></category>
-    <desc>Konat e vogla po mësojnë se si të kalojnë aventurat në botën e madhe, duke u shoqëruar nga legjenda e Putërmadhit.</desc>
   </programme>
-
   <programme start="20230618073400 +0200" stop="20230618080500 +0200" channel="cufo-tv">
     <title>Autobusi i vogël Tajo</title>
     <category>Animacion</category>
-    <desc>Tajo, autobusi i vogël, do të drejtojë një ekskursion fantastik me shokët e tij në një botë të magjishme.</desc>
   </programme>
-
   <programme start="20230618080500 +0200" stop="20230618083000 +0200" channel="cufo-tv">
     <title>Zebra Zigbi</title>
-    <category></category>
-    <desc>Zigbi, zebra jashtëzakonisht e shpejtë, do të përjetojë aventura të mahnitshme dhe emocionante në savanën e Afrikës.</desc>
   </programme>
-
   <programme start="20230618083000 +0200" stop="20230618093000 +0200" channel="cufo-tv">
     <title>Kurrizoja i Notre Damit</title>
-    <category></category>
-    <desc>Kurrizoja i Notre Damit, Kukulla e bukur, do të jetojë aventura të mahnitshme në qytetin historik të Parisit.</desc>
   </programme>
-
   <programme start="20230618093000 +0200" stop="20230618101500 +0200" channel="cufo-tv">
     <title>Urra</title>
     <category>Animacion</category>
-    <desc>Urra dhe shokët e tij do të përballet me sfida të vështira dhe do të mbrojnë botën nga forcat e keqija.</desc>
   </programme>
-
   <programme start="20230618101500 +0200" stop="20230618110500 +0200" channel="cufo-tv">
     <title>Skuadra e Ndërhyrjeve Speciale</title>
     <category>Animacion</category>
-    <desc>Një skuadër e përbërë nga profesionistë të shquar do të intervijojë për të ndaluar kriminelët dhe për të ruajtur paqen në qytet.</desc>
   </programme>
-
-  <programme start="20230618110500 +0200
-
-" stop="20230618115500 +0200" channel="cufo-tv">
+  <programme start="20230618110500 +0200" stop="20230618115500 +0200" channel="cufo-tv">
     <title>Njëmbëdhjetëshja e Inazumës</title>
     <category>Animacion</category>
-    <desc>Një skuadër e futbollit me talentë të rinj do të përballen me sfida të mëdha dhe do të kërkojnë të fitojnë çmimin më të madh.</desc>
   </programme>
-
-  <programme start="20230618115500 +0200" stop="20230618125500 +0200" channel="cufo-tv">
+  <programme start="20230618115500 +0200" stop="20230618124000 +0200" channel="cufo-tv">
     <title>Shfaqja e Snupit</title>
-    <category>Animacion</category>
-    <desc>Snupi, një detektiv i shkëlqyer, do të përballet me kriminelët dhe do të shpëtojë qytetin nga rrezikshmëria e tyre.</desc>
+    <category>Animacion, aksion, aventurë</category>
   </programme>
-
-  <programme start="20230618125500 +0200" stop="20230618134000 +0200" channel="cufo-tv">
+  <programme start="20230618124000 +0200" stop="20230618140500 +0200" channel="cufo-tv">
     <title>Kthimi i Guliverit</title>
-    <category></category>
-    <desc>Guliver, pas një udhëtimi të jashtëzakonshëm në ishujt e panjohur, do të kthehet në botën reale me aventura të reja dhe emocionante.</desc>
   </programme>
-
   <programme start="20230618140500 +0200" stop="20230618145500 +0200" channel="cufo-tv">
     <title>Sailor Moon Kristali</title>
     <category>Animacion</category>
-    <desc>Sailor Moon dhe skuadra e saj do të luftojnë kundër forcave të errëta për të mbrojtur planetin dhe për të sjellë paqen në botë.</desc>
   </programme>
-
   <programme start="20230618145500 +0200" stop="20230618154000 +0200" channel="cufo-tv">
     <title>Garuesit e Galaktikës</title>
     <category>Animacion</category>
-    <desc>Garuesit e talentuar do të ndeshen në garat më të mahnitshme të galaktikës, duke treguar aftësitë e tyre të jashtëzakonshme.</desc>
   </programme>
-
-  <programme start="20230618154000 +0200" stop="20230618163000 +0200" channel="cufo-tv">
+  <programme start="20230618154000 +0200" stop="20230618164000 +0200" channel="cufo-tv">
     <title>Piratet e vegjël: Botë e fortë</title>
     <category>Animacion</category>
-    <desc>Piratët e vegjël do të udhëtojnë në një botë të fortë të piratëve, ku do të hasin aventura, skarbatje dhe zbulime të papritura.</desc>
   </programme>
-
-  <programme start="20230618173000 +0200" stop="20230618175600 +0200" channel="cufo-tv">
+  <programme start="20230618164000 +0200" stop="20230618175600 +0200" channel="cufo-tv">
     <title>Autobusi i vogël Tajo</title>
     <category>Animacion</category>
-    <desc>Tajo, autobusi i
-
- vogël, do të drejtojë një ekskursion fantastik me shokët e tij në një botë të magjishme.</desc>
   </programme>
-
-  <programme start="20230618175600 +0200" stop="20230618184500 +0200" channel="cufo-tv">
+  <programme start="20230618175600 +0200" stop="20230618184400 +0200" channel="cufo-tv">
     <title>Skuadra e Ndërhyrjeve Speciale</title>
     <category>Animacion</category>
-    <desc>Një skuadër e përbërë nga profesionistë të shquar do të intervijojë për të ndaluar kriminelët dhe për të ruajtur paqen në qytet.</desc>
   </programme>
-
-  <programme start="20230618184500 +0200" stop="20230618193100 +0200" channel="cufo-tv">
+  <programme start="20230618184400 +0200" stop="20230618194400 +0200" channel="cufo-tv">
     <title>Njëmbëdhjetëshja e Inazumës</title>
     <category>Animacion</category>
-    <desc>Një skuadër e futbollit me talentë të rinj do të përballen me sfida të mëdha dhe do të kërkojnë të fitojnë çmimin më të madh.</desc>
   </programme>
-
-  <programme start="20230618193100 +0200" stop="20230618200500 +0200" channel="cufo-tv">
+  <programme start="20230618194400 +0200" stop="20230618203000 +0200" channel="cufo-tv">
     <title>Dragoi i babait tim</title>
-    <category></category>
-    <desc>Një djali i ri zbulon se babai i tij është një dragua dhe ata bashkohen për të mbrojtur botën nga forcave të errëta.</desc>
   </programme>
-
-  <programme start="20230618210500 +0200" stop="20230618212800 +0200" channel="cufo-tv">
+  <programme start="20230618210500 +0200" stop="20230618215500 +0200" channel="cufo-tv">
     <title>Sailor Moon Kristali</title>
     <category>Animacion</category>
-    <desc>Sailor Moon dhe skuadra e saj do të luftojnë kundër forcave të errëta për të mbrojtur planetin dhe për të sjellë paqen në botë.</desc>
   </programme>
-
-  <programme start="20230618212800 +0200" stop="20230618221500 +0200" channel="cufo-tv">
+  <programme start="20230618215500 +0200" stop="20230618224000 +0200" channel="cufo-tv">
     <title>Garuesit e Galaktikës</title>
     <category>Animacion</category>
-    <desc>Garuesit e talentuar do të ndeshen në garat më të mahnitshme të galaktikës, duke treguar aftësitë e tyre të jashtëzakonshme.</desc>
   </programme>
-
-  <programme start="20230618221500 +0200" stop="20230618224000 +0200" channel="cufo-tv">
+  <programme start="20230618224000 +0200" stop="20230619000000 +0200" channel="cufo-tv">
     <title>Hulku i tmerrshëm</title>
     <category>Animacion</category>
-    <desc>Hulku, një superheroi i fuqishëm, do të përballet me armiqtë dhe do të mbrojë qytetin nga rrezikshmëria e tyre.</desc>
   </programme>
-
-  <programme start="20230619002600 +0200" stop="20230619011600 +
-
-0200" channel="cufo-tv">
+  <programme start="20230619000000 +0200" stop="20230619010000 +0200" channel="cufo-tv">
+    <title>Kurrizoja i Notre Damit</title>
+  </programme>
+  <programme start="20230619010000 +0200" stop="20230619020000 +0200" channel="cufo-tv">
+    <title>Kthimi i Guliverit</title>
+  </programme>
+  <programme start="20230619022600 +0200" stop="20230619041600 +0200" channel="cufo-tv">
     <title>Piratet e vegjël: Botë e fortë</title>
     <category>Animacion</category>
-    <desc>Piratët e vegjël do të udhëtojnë në një botë të fortë të piratëve, ku do të hasin aventura, skarbatje dhe zbulime të papritura.</desc>
   </programme>
-
   <programme start="20230619041600 +0200" stop="20230619050500 +0200" channel="cufo-tv">
     <title>Skuadra e Ndërhyrjeve Speciale</title>
     <category>Animacion</category>
-    <desc>Një skuadër e përbërë nga profesionistë të shquar do të intervijojë për të ndaluar kriminelët dhe për të ruajtur paqen në qytet.</desc>
   </programme>
-
-  <programme start="20230619050500 +0200" stop="20230619054000 +0200" channel="cufo-tv">
+  <programme start="20230619050500 +0200" stop="20230619062500 +0200" channel="cufo-tv">
     <title>Hulku i tmerrshëm</title>
     <category>Animacion</category>
-    <desc>Hulku, një superheroi i fuqishëm, do të përballet me armiqtë dhe do të mbrojë qytetin nga rrezikshmëria e tyre.</desc>
   </programme>
-
   <programme start="20230619062500 +0200" stop="20230619071500 +0200" channel="cufo-tv">
     <title>Ariu që fjeti gjatë Krishtlindjes</title>
     <category>Animacion</category>
-    <desc>Një ari i vogël kalon një aventurë emocionuese gjatë kohës së Krishtlindjeve.</desc>
   </programme>
-
-  <programme start="20230619071500 +0200" stop="20230619082700 +0200" channel="cufo-tv">
+  <programme start="20230619071500 +0200" stop="20230619073900 +0200" channel="cufo-tv">
     <title>Shimeri dhe Shajni</title>
     <category>Animacion</category>
-    <desc>Shimeri dhe Shajni janë dy miqë shumë të mirë që kalojnë kohë të mrekullueshme së bashku.</desc>
   </programme>
-
-  <programme start="20230619082700 +0200" stop="20230619093900 +0200" channel="cufo-tv">
+  <programme start="20230619073900 +0200" stop="20230619083000 +0200" channel="cufo-tv">
+    <title>Shimeri dhe Shajni</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230619083000 +0200" stop="20230619092900 +0200" channel="cufo-tv">
     <title>Barni dhe miqtë</title>
     <category>Animacion</category>
-    <desc>Barni dhe miqtë e tij përjetojnë aventura të shumta dhe mësojnë mësime të rëndësishme në jetë.</desc>
   </programme>
-
-  <programme start="20230619093900 +0200" stop="20230619104100 +0200" channel="cufo-tv">
+  <programme start="20230619092900 +0200" stop="20230619095500 +0200" channel="cufo-tv">
     <title>Dollapi i Kloes</title>
     <category>Animacion</category>
-    <desc>Dollapi i Kloes është një vend magjik ku krijohen veshjet më të bukura për fëmijë.</desc>
   </programme>
-
-  <programme start="20230619104100 +0200" stop="20230619105500 +0200" channel="cufo-tv">
+  <programme start="20230619095500 +0200" stop="20230619111000 +0200" channel="cufo-tv">
     <title>Rrëfenjë peshqish</title>
-    <category>Animacion</category>
-    <desc>Historia e një grupi peshqish që rrëfen aventurat dhe mësimet e tyre emocionuese.</desc>
   </programme>
-
-  <programme start="20230619111000 +0200" stop="20230619123000 +0200" channel="cufo-tv">
+  <programme start="20230619111000 +0200" stop="20230619123500 +0200" channel="cufo-tv">
     <title>Rojtarët e kodit te humbur</title>
-    <category>Animacion</category>
-    <desc>Rojtarët janë në kërkim të kodit të humbur dhe përballen me sfida të vështira dhe skemat e këqija.</desc>
   </programme>
-
-  <programme start="20230619123500 +0200" stop="20230619125600 +0200" channel="cufo-tv">
+  <programme start="20230619123500 +0200" stop="20230619133500 +0200" channel="cufo-tv">
     <title>6 heronjtë: Seriali</title>
     <category>Animacion, aventurë</category>
-    <desc>Gjashtë heronjët e fuqish
-
-ëm përballen me sfida të rrezikshme dhe mbrojnë botën nga të këqijat.</desc>
   </programme>
-
-  <programme start="20230619130000 +0200" stop="20230619132000 +0200" channel="cufo-tv">
+  <programme start="20230619133500 +0200" stop="20230619142000 +0200" channel="cufo-tv">
     <title>Shtepia e zhurmshme</title>
     <category>Animacion</category>
-    <desc>Familja e zhurmshme jetojnë aventura të çuditshme dhe të qesharake në jetën e tyre të përditshme.</desc>
   </programme>
-
-  <programme start="20230619132000 +0200" stop="20230619133500 +0200" channel="cufo-tv">
+  <programme start="20230619142000 +0200" stop="20230619151000 +0200" channel="cufo-tv">
     <title>Gumëzhima Megi</title>
     <category>Animacion</category>
-    <desc>Megi është një gumëzhim që jeton aventura magjike në botën e saj të veçantë.</desc>
   </programme>
-
-  <programme start="20230619133500 +0200" stop="20230619140000 +0200" channel="cufo-tv">
+  <programme start="20230619151000 +0200" stop="20230619152500 +0200" channel="cufo-tv">
     <title>Avatar: Mjeshtri i fundit i ajrit</title>
     <category>Animacion</category>
-    <desc>Aang është Avatar-i i fundit i ajrit që lufton për paqen dhe balancën në botën e tij të magjishme.</desc>
   </programme>
-
-  <programme start="20230619140000 +0200" stop="20230619142500 +0200" channel="cufo-tv">
+  <programme start="20230619152500 +0200" stop="20230619162500 +0200" channel="cufo-tv">
     <title>Kung Fu Panda Bota dimërore e Pose</title>
     <category>Animacion</category>
-    <desc>Po ju bashkoheni Po-s, Panda të madh, në një aventurë të ftohtë dhe emocionuese në botën dimërore të Pose.</desc>
   </programme>
-
-  <programme start="20230619142500 +0200" stop="20230619145000 +0200" channel="cufo-tv">
-    <title>Hej, Arnold! Filmi i Xhunglës</title>
-    <category>Animacion</category>
-    <desc>Arnold dhe shoqëria e tij udhëtojnë në Xhunglë për të zbuluar sekretet e humbura dhe për të ndihmuar një shok të vjetër.</desc>
-  </programme>
-
-  <programme start="20230619171000 +0200" stop="20230619182200 +0200" channel="cufo-tv">
+  <programme start="20230619171000 +0200" stop="20230619180000 +0200" channel="cufo-tv">
     <title>Shimeri dhe Shajni</title>
     <category>Animacion</category>
-    <desc>Shimeri dhe Shajni janë dy miqë shumë të mirë që kalojnë kohë të mrekullueshme së bashku.</desc>
   </programme>
-
-  <programme start="20230619182200 +0200" stop="20230619193300 +0200" channel="cufo-tv">
+  <programme start="20230619180000 +0200" stop="20230619190000 +0200" channel="cufo-tv">
     <title>Barni dhe miqtë</title>
     <category>Animacion</category>
-    <desc>Barni dhe miqtë e tij përjetojnë aventura të shumta dhe mësojnë mësime të rëndësishme në jetë.</desc>
   </programme>
-
-  <programme start="20230619193300 +0200" stop="20230619204400 +0200" channel="cufo-tv">
-    <title>Shtepia e zhurmshme</title>
-    <category>Animacion</category>
-    <desc>Familja e zhurmshme jetojnë aventura të çuditshme dhe të qesharake në jetën e tyre të përditshme.</desc>
-  </programme>
-
-  <programme start="20230619204400 +0200" stop="20230619210600 +0200" channel="cufo-tv">
-    <title>6 heronjtë: Seriali</title>
-    <category>Animacion, aventurë</category>
-    <desc>Gjashtë heronjët e fuqishëm përballen me sfida të rrezikshme dhe mbrojnë botën nga të këqijat.</desc>
-  </programme>
-
-  <programme start="20230619213000 +0200" stop="20230619225200 +0200" channel="cufo-tv">
-    <title>Përrallat e Xhinxherit</title>
-    <category>Animacion</category>
-    <desc>Një xhinxher është i gatshëm të tregojë përralla magjike dhe aventura emocionuese për fëmijët.</desc>
-  </programme>
-
-  <programme start="20230619213000 +0200" stop="20230619215200 +0200" channel="cufo-tv">
-    <title>Përrallat e Xhinxherit</title>
-    <category>Animacion</category>
-    <desc>Një xhinxher është i gatshëm të tregojë përralla magjike dhe aventura emocionuese për fëmijët.</desc>
-  </programme>
-
-  <programme start="20230619220000 +0200" stop="20230619232500 +0200" channel="cufo-tv">
-    <title>Familja e spiunit</title>
-    <category>Animacion</category>
-    <desc>Familja e spiunit punon së bashku për të ndalur planet e keqija dhe për të ruajtur botën.</desc>
-  </programme>
-
-  <programme start="20230619232500 +0200" stop="20230619235000 +0200" channel="cufo-tv">
-    <title>Avatar: Mjeshtri i fundit i ajrit</title>
-    <category>Animacion</category>
-    <desc>Aang është Avatar-i i fundit i ajrit që lufton për paqen dhe balancën në botën e tij të magjishme.</desc>
-  </programme>
-
-  <programme start="20230619235000 +0200" stop="20230620001600 +0200" channel="cufo-tv">
-    <title>Pudingu magjik</title>
-    <category>Animacion</category>
-    <desc>Pudingu magjik sjell shumë humor dhe aventura për të gjithë fëmijët që e shoh
-
-in.</desc>
-  </programme>
-
-  <programme start="20230620003000 +0200" stop="20230620014500 +0200" channel="cufo-tv">
-    <title>Rrëfenjë peshqish</title>
-    <category>Animacion</category>
-    <desc>Historia e një grupi peshqish që rrëfen aventurat dhe mësimet e tyre emocionuese.</desc>
-  </programme>
-
-  <programme start="20230620014500 +0200" stop="20230620030000 +0200" channel="cufo-tv">
-    <title>Rojtarët e kodit te humbur</title>
-    <category>Animacion</category>
-    <desc>Rojtarët janë në kërkim të kodit të humbur dhe përballen me sfida të vështira dhe skemat e këqija.</desc>
-  </programme>
-
-  <programme start="20230620041000 +0200" stop="20230620053100 +0200" channel="cufo-tv">
-    <title>Hej, Arnold! Filmi i Xhunglës</title>
-    <category>Animacion</category>
-    <desc>Arnold dhe shoqëria e tij udhëtojnë në Xhunglë për të zbuluar sekretet e humbura dhe për të ndihmuar një shok të vjetër.</desc>
-  </programme>
-
-  <programme start="20230620063000 +0200" stop="20230620075100 +0200" channel="cufo-tv">
-    <title>Përrallat e Xhinxherit</title>
-    <category>Animacion</category>
-    <desc>Një xhinxher është i gatshëm të tregojë përralla magjike dhe aventura emocionuese për fëmijët.</desc>
-  </programme>
-
-  <programme start="20230620080000 +0200" stop="20230620092000 +0200" channel="cufo-tv">
-    <title>6 heronjtë: Seriali</title>
-    <category>Animacion, aventurë</category>
-    <desc>Gjashtë heronjët e fuqishëm përballen me sfida të rrezikshme dhe mbrojnë botën nga të këqijat.</desc>
-  </programme>
-
-  <programme start="20230620092100 +0200" stop="20230620104400 +0200" channel="cufo-tv">
-    <title>Shtepia e zhurmshme</title>
-    <category>Animacion</category>
-    <desc>Familja e zhurmshme jetojnë aventura të çuditshme dhe të qesharake në jetën e tyre të përditshme.</desc>
-  </programme>
-
-  <programme start="20230620104400 +0200" stop="20230620110600 +0200" channel="cufo-tv">
-    <title>6 heronjtë: Seriali</title>
-    <category>Animacion, aventurë</category>
-    <desc>Gjashtë heronjët e fuqishëm përballen me sfida të rrezikshme dhe mbrojnë botën nga të
-
- këqijat.</desc>
-  </programme>
-
-  <programme start="20230620113000 +0200" stop="20230620125200 +0200" channel="cufo-tv">
-    <title>Përrallat e Xhinxherit</title>
-    <category>Animacion</category>
-    <desc>Një xhinxher është i gatshëm të tregojë përralla magjike dhe aventura emocionuese për fëmijët.</desc>
-  </programme>
-
-  <programme start="20230620125200 +0200" stop="20230620141300 +0200" channel="cufo-tv">
-    <title>Barni dhe miqtë</title>
-    <category>Animacion</category>
-    <desc>Barni dhe miqtë e tij përjetojnë aventura të shumta dhe mësojnë mësime të rëndësishme në jetë.</desc>
-  </programme>
-
-  <programme start="20230620141300 +0200" stop="20230620152400 +0200" channel="cufo-tv">
+  <programme start="20230619190000 +0200" stop="20230619200000 +0200" channel="cufo-tv">
     <title>Dollapi i Kloes</title>
     <category>Animacion</category>
-    <desc>Dollapi i Kloes është një vend magjik ku krijohen veshjet më të bukura për fëmijë.</desc>
   </programme>
-
-  <programme start="20230620152400 +0200" stop="20230620153800 +0200" channel="cufo-tv">
-    <title>Rrëfenjë peshqish</title>
+   <programme start="20230619200000 +0200" stop="20230619210500 +0200" channel="cufo-tv">
+    <title>Të bëhesh i egër</title>
     <category>Animacion</category>
-    <desc>Historia e një grupi peshqish që rrëfen aventurat dhe mësimet e tyre emocionuese.</desc>
   </programme>
-
-  <programme start="20230620155300 +0200" stop="20230620171300 +0200" channel="cufo-tv">
-    <title>Hej, Arnold! Filmi i Xhunglës</title>
+  <programme start="20230619210500 +0200" stop="20230619214500 +0200" channel="cufo-tv">
+    <title>Shfaqja e Gufit</title>
+    <category>Film për fëmijë</category>
+  </programme>
+  <programme start="20230619220500 +0200" stop="20230619232000 +0200" channel="cufo-tv">
+    <title>Albert, pema e vogël e Krishtlindjes</title>
+  </programme>
+  <programme start="20230619232000 +0200" stop="20230620043500 +0200" channel="cufo-tv">
+    <title>6 heronjtë: Seriali</title>
+    <category>Animacion, aventurë</category>
+  </programme>
+  <programme start="20230620043500 +0200" stop="20230620052000 +0200" channel="cufo-tv">
+    <title>Shtepia e zhurmshme</title>
     <category>Animacion</category>
-    <desc>Arnold dhe shoqëria e tij udhëtojnë në Xhunglë për të zbuluar sekretet e humbura dhe për të ndihmuar një shok të vjetër.</desc>
+  </programme>
+  <programme start="20230620052000 +0200" stop="20230620061000 +0200" channel="cufo-tv">
+    <title>Gumëzhima Megi</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620061000 +0200" stop="20230620062500 +0200" channel="cufo-tv">
+    <title>Familja e spiunit</title>
+  </programme>
+  <programme start="20230620062500 +0200" stop="20230620071500 +0200" channel="cufo-tv">
+    <title>Avatar: Mjeshtri i fundit i ajrit</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620071500 +0200" stop="20230620080500 +0200" channel="cufo-tv">
+    <title>WALL E</title>
+  </programme>
+  <programme start="20230620071000 +0200" stop="20230620080000 +0200" channel="cufo-tv">
+    <title>Shimeri dhe Shajni</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620080000 +0200" stop="20230620085000 +0200" channel="cufo-tv">
+    <title>6 heronjtë: Seriali</title>
+    <category>Animacion, aventurë</category>
+  </programme>
+  <programme start="20230620085000 +0200" stop="20230620093000 +0200" channel="cufo-tv">
+    <title>Shtepia e zhurmshme</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620093000 +0200" stop="20230620102500 +0200" channel="cufo-tv">
+    <title>Muni, rojtari i henes</title>
+  </programme>
+  <programme start="20230620102500 +0200" stop="20230620114000 +0200" channel="cufo-tv">
+    <title>Familja e spiunit</title>
+  </programme>
+  <programme start="20230620114000 +0200" stop="20230620121500 +0200" channel="cufo-tv">
+    <title>Avatar: Mjeshtri i fundit i ajrit</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620121500 +0200" stop="20230620130500 +0200" channel="cufo-tv">
+    <title>Rugrats në xhungël</title>
+  </programme>
+  <programme start="20230620130500 +0200" stop="20230620142500 +0200" channel="cufo-tv">
+    <title>Shfaqja e Gufit</title>
+    <category>Film për fëmijë</category>
+  </programme>
+  <programme start="20230620152500 +0200" stop="20230620160000 +0200" channel="cufo-tv">
+    <title>Albert, pema e vogël e Krishtlindjes</title>
+  </programme>
+  <programme start="20230620160000 +0200" stop="20230620171500 +0200" channel="cufo-tv">
+    <title>6 heronjtë: Seriali</title>
+    <category>Animacion, aventurë</category>
+  </programme>
+  <programme start="20230620171500 +0200" stop="20230620180000 +0200" channel="cufo-tv">
+    <title>Shtepia e zhurmshme</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620180000 +0200" stop="20230620185000 +0200" channel="cufo-tv">
+    <title>Muni, rojtari i henes</title>
+  </programme>
+  <programme start="20230620185000 +0200" stop="20230620192500 +0200" channel="cufo-tv">
+    <title>Familja e spiunit</title>
+  </programme>
+  <programme start="20230620192500 +0200" stop="20230620201500 +0200" channel="cufo-tv">
+    <title>Avatar: Mjeshtri i fundit i ajrit</title>
+    <category>Animacion</category>
+  </programme>
+  <programme start="20230620201500 +0200" stop="20230620210500 +0200" channel="cufo-tv">
+    <title>Rugrats në xhungël</title>
   </programme>
 </tv>
