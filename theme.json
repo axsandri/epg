@@ -141,8 +141,8 @@
       "PRIMARY_500": "#cdd6f4",
       "PRIMARY_600": "#18181D",
       "PRIMARY_630": "#36393f",
-      "PRIMARY_660": "#212226", // side panel I guess
-      "PRIMARY_700": "#212226", // same as side panel colour
+      "PRIMARY_660": "#212226",
+      "PRIMARY_700": "#212226",
       "PRIMARY_800": "#18181D",
       "RED_400": "#eba0ac",
       "WHITE_500": "#585b70",
