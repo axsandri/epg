@@ -45,7 +45,7 @@
       "#313244"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#18181D"
+      "#212226"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#11111b"
@@ -135,7 +135,7 @@
       "BRAND_500": "#cba6f7",
       "GREEN_360": "#a6e3a1",
       "PRIMARY_100": "#cdd6f4",
-      "PRIMARY_300": "#18181D",
+      "PRIMARY_300": "#212226",
       "PRIMARY_360": "#cba6f7",
       "PRIMARY_400": "#cba6f7",
       "PRIMARY_500": "#cdd6f4",
